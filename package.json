@@ -1,14 +1,17 @@
 {
-    "name": "jest_toy",
-    "version": "0.1.0",
-    "description": "",
-    "main": "sum.js",
-    "scripts": {
-        "test": "jest"
-    },
-    "author": "Jason C. Huang",
-    "license": "ISC",
-    "devDependencies": {
-        "jest-cli": "^0.2.1"
-    }
+  "name": "jest_toy",
+  "version": "0.1.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jason C. Huang",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^0.2.1"
+  },
+  "dependencies": {
+    "jquery": "^2.1.3"
+  }
 }
